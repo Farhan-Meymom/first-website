@@ -1,0 +1,88 @@
+
+body{
+    padding: 1em;
+  background: linear-gradient(
+        135deg,#605dff ,#ec4899 , #f59e0b
+    );
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.navbar{
+    /* background-color:black; */
+    border-radius: 10px;
+}
+.card{
+    max-width: 38em;
+    flex-direction: row;
+    margin: 10px;
+    background-color: rgb(209, 255, 255);
+}
+.card img{
+    max-width: 25%;
+    margin: 30px;
+    padding: 0.5em;
+    border-radius: 0.7em;
+}
+.form-control{
+    background-color: white;
+    color: black;
+}
+h2{
+    .redaction-10-regular {
+  font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.redaction-10-bold {
+  font-family: "Redaction 10", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.redaction-10-regular-italic {
+  font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+}
+.head-1{
+    background-color: rgb(232, 236, 230);
+    font-size: 40px;
+    width: 400px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #571536 ;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-weight: bolder;
+
+
+
+}
+.head{
+    display: flex;
+    justify-content: center;
+    /* background-color: #605dff; */
+}
+.contactform{
+    border: 2px solid red;
+    width: 400px;
+    border-radius: 10px;
+    color: black;
+    /* text-align: center; */
+}
+.data{
+    width: 200px;
+}
+.btn{
+    padding: 10px 25px;
+    margin: 10px;
+    /* font-weight: bol; */
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
